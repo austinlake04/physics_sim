@@ -1,0 +1,3 @@
+/Users/austinlake04/code/austinlake04/physics-sim/cmake-build-debug/CMakeFiles/physics_sim.dir
+/Users/austinlake04/code/austinlake04/physics-sim/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/austinlake04/code/austinlake04/physics-sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
